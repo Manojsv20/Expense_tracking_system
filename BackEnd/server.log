@@ -1,0 +1,211 @@
+2026-01-28 15:56:35,792 - db_helper - INFO - expense_summary is called with Start date=2024-8-4 End date=2024-9-5
+2026-01-28 17:36:06,282 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 15:32:09,677 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 15:32:25,212 - db_helper - INFO - view_expense is called with expense_date=2024-08-09
+2026-02-03 15:32:31,694 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 15:51:49,165 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 15:52:10,431 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 15:54:07,693 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 15:54:48,902 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 15:55:12,486 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:07:27,432 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:08:07,968 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:12:09,198 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:12:14,005 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:19:57,465 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:21:42,984 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:22:58,302 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:23:55,407 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:27:38,637 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:28:07,201 - db_helper - INFO - view_expense is called with expense_date=2024-08-01
+2026-02-03 16:28:18,168 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:28:39,687 - db_helper - INFO - view_expense is called with expense_date=2024-08-01
+2026-02-03 16:28:45,859 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:28:47,803 - db_helper - INFO - view_expense is called with expense_date=2024-08-01
+2026-02-03 16:29:14,765 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:31:54,550 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:34:28,752 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:37:30,885 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:39:37,700 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:39:42,836 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 16:39:47,411 - db_helper - INFO - view_expense is called with expense_date=2024-08-11
+2026-02-03 16:41:02,697 - db_helper - INFO - view_expense is called with expense_date=2024-08-11
+2026-02-03 16:41:10,255 - db_helper - INFO - view_expense is called with expense_date=2024-08-01
+2026-02-03 16:41:14,049 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:41:30,147 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:41:32,535 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 16:41:34,508 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:41:42,510 - db_helper - INFO - view_expense is called with expense_date=2024-08-28
+2026-02-03 16:41:45,447 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:42:18,769 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:45:17,118 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:49:01,237 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:51:04,007 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:51:48,764 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:52:14,233 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:52:38,563 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 16:53:29,124 - db_helper - INFO - view_expense is called with expense_date=2025-08-03
+2026-02-03 16:53:45,919 - db_helper - INFO - view_expense is called with expense_date=2025-08-03
+2026-02-03 16:53:57,011 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:55:32,141 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:55:49,194 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 16:56:03,019 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 16:56:05,437 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:56:14,957 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 16:56:25,501 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 16:56:33,229 - db_helper - INFO - view_expense is called with expense_date=2024-08-04
+2026-02-03 16:56:37,913 - db_helper - INFO - view_expense is called with expense_date=2024-08-05
+2026-02-03 16:56:43,178 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:57:13,379 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:57:21,340 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 16:57:29,224 - db_helper - INFO - view_expense is called with expense_date=2024-08-04
+2026-02-03 16:57:33,453 - db_helper - INFO - view_expense is called with expense_date=2024-08-14
+2026-02-03 16:57:38,031 - db_helper - INFO - view_expense is called with expense_date=2024-08-31
+2026-02-03 16:57:43,572 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 16:59:17,006 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:01:32,013 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:10:36,154 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:10:41,328 - db_helper - INFO - view_expense is called with expense_date=2024-08-10
+2026-02-03 17:10:45,203 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:14:55,623 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:16:51,748 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:16:57,782 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 17:17:03,030 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:32:05,931 - db_helper - INFO - view_expense is called with expense_date=2024-08-01
+2026-02-03 17:32:19,163 - db_helper - INFO - view_expense is called with expense_date=2024-08-09
+2026-02-03 17:32:21,671 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:34:06,811 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:34:15,672 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 17:34:17,558 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:34:21,260 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:35:16,939 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:35:22,192 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 17:35:26,785 - db_helper - INFO - view_expense is called with expense_date=2024-08-06
+2026-02-03 17:35:31,171 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:35:42,237 - db_helper - INFO - view_expense is called with expense_date=2024-08-04
+2026-02-03 17:37:48,974 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:37:57,295 - db_helper - INFO - view_expense is called with expense_date=2024-08-09
+2026-02-03 17:37:59,922 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:54:38,065 - db_helper - INFO - view_expense is called with expense_date=2024-08-01
+2026-02-03 17:54:44,912 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 17:54:49,615 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 17:54:54,503 - db_helper - INFO - view_expense is called with expense_date=2024-08-04
+2026-02-03 18:27:33,315 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 18:27:33,319 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 18:28:19,597 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-03 18:28:24,941 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 20:17:38,416 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-03 20:17:50,112 - db_helper - INFO - view_expense is called with expense_date=2024-08-07
+2026-02-03 20:18:27,686 - db_helper - INFO - view_expense is called with expense_date=2024-08-07
+2026-02-03 20:18:29,889 - db_helper - INFO - delete_expense is called with expense_date=2024-08-07
+2026-02-03 20:18:29,921 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=25.0,category=Food,notes=ice cream
+2026-02-03 20:18:29,973 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=60.0,category=Shopping,notes=shop
+2026-02-03 20:18:29,993 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=20.0,category=Entertainment,notes=Video rental
+2026-02-03 20:18:30,016 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=120.0,category=Shopping,notes=Gadgets
+2026-02-03 20:18:30,036 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=15.0,category=Other,notes=Coffee
+2026-02-03 20:18:30,836 - db_helper - INFO - view_expense is called with expense_date=2024-08-07
+2026-02-03 20:18:32,961 - db_helper - INFO - delete_expense is called with expense_date=2024-08-07
+2026-02-03 20:18:33,000 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=25.0,category=Food,notes=ice cream
+2026-02-03 20:18:33,020 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=60.0,category=Shopping,notes=shop
+2026-02-03 20:18:33,040 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=20.0,category=Entertainment,notes=Video rental
+2026-02-03 20:18:33,060 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=120.0,category=Shopping,notes=Gadgets
+2026-02-03 20:18:33,081 - db_helper - INFO - insert_expense is called with Edate=2024-08-07,amount=15.0,category=Other,notes=Coffee
+2026-02-03 20:37:42,638 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:29:02,108 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:32:29,002 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:32:53,013 - db_helper - INFO - view_expense is called with expense_date=2024-08-15
+2026-02-04 12:32:57,453 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 12:33:02,550 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:36:46,972 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:43:04,021 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:43:07,874 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:43:35,184 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:43:38,584 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:44:15,922 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 12:44:18,964 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 15:14:49,861 - db_helper - INFO - expense_summary is called with Start date=2024-08-02 End date=2024-08-07
+2026-02-04 15:18:07,589 - db_helper - INFO - expense_summary is called with Start date=2024-8-4 End date=2024-9-5
+2026-02-04 15:19:23,280 - db_helper - INFO - expense_summary is called with Start date=2024-08-02 End date=2024-08-07
+2026-02-04 15:21:08,995 - db_helper - INFO - expense_summary is called with Start date=2024-08-02 End date=2024-08-07
+2026-02-04 15:24:36,241 - db_helper - INFO - expense_summary is called with Start date=2024-8-4 End date=2024-9-5
+2026-02-04 15:25:43,029 - db_helper - INFO - expense_summary is called with Start date=2024-08-02 End date=2024-08-07
+2026-02-04 15:27:03,253 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 15:27:08,652 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 15:53:11,047 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 15:53:16,927 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 15:53:19,062 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 15:56:18,585 - db_helper - INFO - view_expense is called with expense_date=2024-08-08
+2026-02-04 15:56:22,866 - db_helper - INFO - view_expense is called with expense_date=2024-08-12
+2026-02-04 15:56:27,094 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:04:43,231 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 16:04:47,412 - db_helper - INFO - view_expense is called with expense_date=2024-08-13
+2026-02-04 16:04:52,600 - db_helper - INFO - view_expense is called with expense_date=2024-08-12
+2026-02-04 16:13:18,758 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:13:24,182 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 16:19:50,100 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 16:19:55,474 - db_helper - INFO - view_expense is called with expense_date=2024-08-08
+2026-02-04 16:20:00,205 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:29:22,651 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 16:29:31,907 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:29:38,096 - db_helper - INFO - view_expense is called with expense_date=2024-08-14
+2026-02-04 16:33:31,898 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 16:33:38,423 - db_helper - INFO - view_expense is called with expense_date=2024-08-08
+2026-02-04 16:33:43,942 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:38:17,690 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:38:25,869 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 16:38:31,536 - db_helper - INFO - view_expense is called with expense_date=2024-08-04
+2026-02-04 16:38:38,461 - db_helper - INFO - view_expense is called with expense_date=2024-08-04
+2026-02-04 16:38:40,652 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 16:45:40,288 - db_helper - INFO - view_expense is called with expense_date=2024-08-04
+2026-02-04 16:47:37,628 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 16:47:41,084 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 16:47:43,240 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 16:47:59,656 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:48:57,453 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:48:59,504 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 16:53:46,548 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:53:48,628 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 16:55:38,158 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 16:55:40,304 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:02:30,563 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:02:32,688 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:03:11,249 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:03:14,971 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:03:17,050 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:03:45,414 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:03:51,894 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:03:53,986 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:09:35,671 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:09:37,794 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:14:56,200 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:14:59,065 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:15:01,203 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:15:32,704 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:15:35,682 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:15:37,759 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:17:43,525 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:17:47,326 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:17:49,478 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:18:11,292 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:18:13,389 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:23:58,544 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:24:02,747 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:24:04,867 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:25:32,980 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:25:41,347 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:25:43,483 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:26:39,793 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:26:46,809 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:26:48,906 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:30:02,622 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:30:06,485 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:30:08,607 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 17:31:20,685 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:31:24,697 - db_helper - INFO - view_expense is called with expense_date=2024-08-02
+2026-02-04 17:31:26,803 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-04 21:36:06,182 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 21:36:19,031 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-04 21:36:21,138 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
+2026-02-05 12:10:08,312 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-05 12:12:01,117 - db_helper - INFO - view_expense is called with expense_date=2024-08-03
+2026-02-05 12:12:03,251 - db_helper - INFO - expense_summary is called with Start date=2024-08-01 End date=2024-08-05
