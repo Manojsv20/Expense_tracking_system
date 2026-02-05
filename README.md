@@ -49,6 +49,35 @@ Expense_tracking_system/
 ├── requirements.txt
 └── README.md
 
+Expense_tracking_system
+┣ 📂 BackEnd
+┃ ┣ 📄 server.py
+┃ ┣ 📄 db_helper.py
+┃ ┗ 📄 schemas.py
+┣ 📂 FrontEnd
+┃ ┣ 📄 app.py
+┃ ┗ 📄 analytics.py
+┣ 📄 requirements.txt
+┗ 📄 README.md
+## 📂 Project Structure
+
+```bash
+Expense_tracking_system/
+│
+├── BackEnd/
+│   ├── server.py        # FastAPI application
+│   ├── db_helper.py     # Database connection & queries
+│   ├── schemas.py       # Pydantic models
+│
+├── FrontEnd/
+│   ├── app.py           # Streamlit main app
+│   ├── analytics.py     # Dashboard
+│
+├── requirements.txt
+└── README.md
+```
+
+
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/Manojsv20/Expense_tracking_system.git
