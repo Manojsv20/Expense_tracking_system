@@ -34,31 +34,7 @@ Uvicorn – ASGI server
 
 Pydantic – Data validation
 
-📂 Project Structure
-Expense_tracking_system/
-│
-├── BackEnd/
-│   ├── server.py        # FastAPI application
-│   ├── db_helper.py    # Database connection & queries
-│   ├── schemas.py      # Pydantic models
-│
-├── FrontEnd/
-│   ├── app.py          # Streamlit main app
-│   ├── analytics.py    # Expense analytics dashboard
-│
-├── requirements.txt
-└── README.md
 
-Expense_tracking_system
-┣ 📂 BackEnd
-┃ ┣ 📄 server.py
-┃ ┣ 📄 db_helper.py
-┃ ┗ 📄 schemas.py
-┣ 📂 FrontEnd
-┃ ┣ 📄 app.py
-┃ ┗ 📄 analytics.py
-┣ 📄 requirements.txt
-┗ 📄 README.md
 ## 📂 Project Structure
 
 ```bash
